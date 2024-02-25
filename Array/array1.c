@@ -1,3 +1,8 @@
+/**
+ * The program initializes an array of integers with specific values at compile time and prints a
+ * success message.
+ */
+
 #include <stdio.h>
 //introduction to array
 // array def: an array is a fixed size collection of more than 1 element of same data type
